@@ -78,3 +78,7 @@ composer create-project --prefer-dist cakephp/app cakeClinicalMS
    NOTE:
    In case needed, to modify a table, you can delete the created file in controller, model, and view. Then do migrations again.
 2. In layout/default.ctp, modify the Discription of the app
+
+## 7. Create Top Navigation Bar
+
+Added top navigation to default page
