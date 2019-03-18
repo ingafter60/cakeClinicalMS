@@ -91,3 +91,26 @@ modified:   src/Template/Doctors/index.ctp
 modified:   src/Template/Doctors/view.ctp
 
 src/Template/Element/actions.ctp
+
+## 9. Dynamic Sidebar Navigation Part 2
+
+modified:   src/Template/Appointments/add.ctp
+modified:   src/Template/Appointments/edit.ctp
+modified:   src/Template/Appointments/index.ctp
+modified:   src/Template/Appointments/view.ctp
+modified:   src/Template/Carriers/add.ctp
+modified:   src/Template/Carriers/edit.ctp
+modified:   src/Template/Carriers/index.ctp
+modified:   src/Template/Carriers/view.ctp
+modified:   src/Template/Invoices/add.ctp
+modified:   src/Template/Invoices/edit.ctp
+modified:   src/Template/Invoices/index.ctp
+modified:   src/Template/Invoices/view.ctp
+modified:   src/Template/Patients/add.ctp
+modified:   src/Template/Patients/edit.ctp
+modified:   src/Template/Patients/index.ctp
+modified:   src/Template/Patients/view.ctp
+modified:   src/Template/Users/add.ctp
+modified:   src/Template/Users/edit.ctp
+modified:   src/Template/Users/index.ctp
+modified:   src/Template/Users/view.ctp
