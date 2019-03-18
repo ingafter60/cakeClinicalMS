@@ -82,3 +82,12 @@ composer create-project --prefer-dist cakephp/app cakeClinicalMS
 ## 7. Create Top Navigation Bar
 
 Added top navigation to default page
+
+## 8. Dynamic Sidebar Navigation Part 1
+
+modified:   src/Template/Doctors/add.ctp
+modified:   src/Template/Doctors/edit.ctp
+modified:   src/Template/Doctors/index.ctp
+modified:   src/Template/Doctors/view.ctp
+
+src/Template/Element/actions.ctp
