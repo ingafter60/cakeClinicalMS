@@ -49,3 +49,25 @@ configuration relevant for your application.
 The app skeleton uses a subset of [Foundation](http://foundation.zurb.com/) (v5) CSS
 framework by default. You can, however, replace it with any other library or
 custom styles.
+
+
+## 3. Download CakePHP with Composer
+
+composer create-project --prefer-dist cakephp/app cakeClinicalMS
+
+## 4. Create Database & Tables
+
+1. Create db and tables
+2. Connect the app to db
+3. test it out
+
+## 5. Create CRUD Dynamically
+
+1. Scaffold: users, patients, invoices, doctors, carriers, appointments
+    I:\laragon\www\cakeClinicalMS\bin (master)
+    λ cake bake all users
+    λ cake bake all patients
+    λ cake bake all invoices
+    λ cake bake all doctors
+    λ cake bake all carriers
+    λ cake bake all appointments
