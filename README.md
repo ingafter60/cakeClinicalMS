@@ -71,3 +71,10 @@ composer create-project --prefer-dist cakephp/app cakeClinicalMS
     λ cake bake all doctors
     λ cake bake all carriers
     λ cake bake all appointments
+
+## 6. Change Table Configuration
+
+1. Modify column in doctors table from tinyint(4) to tinyint(1)
+   NOTE:
+   In case needed, to modify a table, you can delete the created file in controller, model, and view. Then do migrations again.
+2. In layout/default.ctp, modify the Discription of the app
